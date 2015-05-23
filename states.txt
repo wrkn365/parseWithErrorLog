@@ -1,0 +1,10 @@
+Rochester, MN, 100000
+New York, NY, 8175133
+Chicago, IL, 2695598
+San Diego, CA, 1307402
+Minneapolis-St.Paul, MN, 2388593
+Toledo, OH, 3456789
+Lockport, TX, 16033
+Doraville, FL, 24527
+Hanahan, MN, 36249
+something, is wrong, with this line!
